@@ -4,30 +4,34 @@
     padding: 0px;
    }
    #wrapper{
-    width: max-content;
+    width: 950px;
     background-color: silver;
     margin: 0px auto;
     padding: 15px;
-    min-height: 600px;
+    min-height: 550px;
    }
    #header{
     min-height: 100px;
     background-color: green;
+    margin: 10px;
+    margin-top: 5px;
    }
    #navigation{
     min-height: 300px;
     width: 200px;
     background-color: blue;
     margin-top: 20px;
+    display: inline-block;
    }
    #main_content{
     min-height: 400px;
     width: 700px;
     background-color: red;
     padding: 10px;
-    vertical-align: 0px;
+    vertical-align: auto;
     margin: 10px;
     display: inline-block;
+    position: absolute;
    }
    .subcontents{
     min-height: 200px;
