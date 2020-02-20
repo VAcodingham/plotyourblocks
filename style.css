@@ -38,7 +38,7 @@
     width: 210px;
     background-color: yellow;
     display: inline-block;
-    margin: 5px;
+    margin: 10px;
 
    }
    #advertisement{
@@ -46,7 +46,7 @@
     width: 660px;
     background-color: purple;
     margin-left: 200px;
-    margin: 5px;
+    margin: 10px;
     display: inline-block;
    }
    
